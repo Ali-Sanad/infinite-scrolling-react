@@ -41,7 +41,7 @@ const ImagesList = () => {
                                     loading='lazy'
                                 />
                                 <CardContent>
-                                    <Typography gutterBottom variant='h5' component='div'>
+                                    <Typography gutterBottom variant='h5' component='div' textAlign="center">
                                         {image.title}
                                     </Typography>
                                 </CardContent>
