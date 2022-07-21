@@ -1,2 +1,1 @@
-# infine-scrolling
-Infinite scrolling with React.js
+###Infinite scrolling with React.js
